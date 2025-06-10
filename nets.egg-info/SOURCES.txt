@@ -1,0 +1,8 @@
+README.md
+setup.py
+nets/__init__.py
+nets.egg-info/PKG-INFO
+nets.egg-info/SOURCES.txt
+nets.egg-info/dependency_links.txt
+nets.egg-info/requires.txt
+nets.egg-info/top_level.txt
